@@ -1,0 +1,7 @@
+apple
+banana
+orange
+hello
+peach
+plum
+kiwi
