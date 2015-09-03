@@ -28,3 +28,4 @@ evaluate a complete multicore system capable of running simple parallel
 applications at the register-transfer level.
 
 bob
+alice
