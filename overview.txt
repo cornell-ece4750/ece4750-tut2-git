@@ -29,3 +29,4 @@ applications at the register-transfer level.
 
 bob
 alice
+alice2
