@@ -2,3 +2,4 @@ apple
 mango
 orange
 plum
+banana
