@@ -1,6 +1,5 @@
 apple
 mango
-apple
-mango
 orange
 banana
+peach
