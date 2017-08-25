@@ -1,33 +1,29 @@
 
-Computer systems programming involves developing software to connect the
-low-level computer hardware to high-level, user-facing application
-software and usually requires careful consideration of performance and
-resource constraints. Examples of computer systems software include
-compilers, operating systems, databases, numerical libraries, and
-embedded controllers.
+This course aims to provide a strong foundation for students to
+understand modern computer system architecture and to apply these
+insights and principles to future computer designs. The course is
+structured around the three primary building blocks of general-purpose
+computing systems: processors, memories, and networks.
 
-This course aims to provide a strong foundation in computer systems
-programming using C and C++, the languages of choice for system-level
-programmers. The course is structured into three parts. In the first
-part, students will learn basic C programming (e.g., static typing,
-functions, control flow, arrays, strings, pointers, dynamic memory
-management); students will then apply their knowledge of C to explore
-basic algorithmic techniques (e.g., recursion, divide-and-conquer,
-dynamic programming), basic algorithms (e.g., sorting), and basic data
-structures (e.g., lists, stacks, queues, sets, maps). In the second part,
-students will learn more advanced C++ programming (e.g., objects,
-inheritance, polymorphism, templates); students will then apply their
-knowledge of C++ to explore more advanced algorithms and data structures
-(e.g., binary search trees, priority queues, hash tables, graphs,
-spanning trees). In the third part, students will explore systems
-programming in the UNIX environment using POSIX I/O, processes, and
-threads.
+The first half of the course focuses on the fundamentals of each building
+block. Topics include instruction set architecture; single-cycle
+processors; hardwired vs. microcoded FSM processors; pipelined
+processors; direct-mapped vs. associative caches; pipelined caches;
+network topology, routing, and flow control; and integrating processors,
+memories, and networks. The second half of the course delves into more
+advanced techniques and will enable students to understand how these
+three building blocks can be integrated to build a modern shared-memory
+multicore system. Topics include superscalar execution, out-of-order
+execution, register renaming, memory disambiguation, branch prediction,
+and speculative execution; multithreaded, VLIW, and SIMD processors;
+non-blocking cache memories; memory protection, translation, and
+virtualization; and memory synchronization, consistency, and coherence.
+Students will learn how to evaluate design decisions in the context of
+past, current, and future application requirements and technology
+constraints.
 
-The course includes a strong emphasis on both theoretical and practical
-design trade-offs. A series of programming assignments enable students to
-apply what they have learned to interesting real-world problems and to
-gain experience with version control, continuous integration, debugging,
-profiling, and code optimization. In the final two programming
-assignments, students will work in pairs to implement a simple in-memory
-caching database and a high-performance financial trading system.
+A significant project is decomposed into five lab assignments. Throughout
+the semester, students will gradually design, implement, test, and
+evaluate a complete multicore system capable of running simple parallel
+applications at the register-transfer level.
 
