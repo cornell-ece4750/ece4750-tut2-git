@@ -1,0 +1,7 @@
+apple
+mango
+orange
+plum
+banana
+peach
+lemon
