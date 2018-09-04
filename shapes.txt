@@ -2,3 +2,5 @@ square
 rectangle
 circular
 triangle
+1
+2
