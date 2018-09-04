@@ -1,3 +1,4 @@
 square
 rectangle
 circular
+triangle
