@@ -1,4 +1,0 @@
-spinach
-broccoli
-turnip
-potato
