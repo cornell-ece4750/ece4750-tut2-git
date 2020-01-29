@@ -1,0 +1,10 @@
+apple
+mago
+orange
+banana
+peach
+lemon
+plum
+kiwi
+date
+
