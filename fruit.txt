@@ -1,3 +1,6 @@
 apple
 mango
 orange
+banana
+peach
+lemon
