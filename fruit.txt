@@ -3,3 +3,5 @@ mango
 orange
 banana
 peach
+lemon
+plum
