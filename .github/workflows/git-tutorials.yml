@@ -1,0 +1,18 @@
+name: Git Tutorial
+
+# Run this workflow everytime code is pushed to GitHub
+on: [push]
+
+jobs:
+  check:
+
+    # Use the latest version of the Ubuntu Linux distribution
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # Checkout the latest version of the code so we can inspect it
+      - uses: actions/checkout@v2
+
+      # Use grep to look for the word blueberry in the fruit.txt file
+      - run: grep blueberry fruit.txt
